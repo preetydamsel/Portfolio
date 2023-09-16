@@ -260,7 +260,7 @@ transform: scale(1.1);
 .work:hover .layer{
     height: 100%;
 }
-/*.btn{
+.btn{
     display:block ;
     width:fit-content;
     margin: 50px auto;
@@ -271,7 +271,7 @@ transform: scale(1.1);
     color: #fff;
     transition: background 0.5s;
 }
-*/
+
 .Others{
     font-size: 16px;
     padding: 20px, 0;
@@ -388,13 +388,13 @@ nav ul li{
   display:block;
   margin:25px;  
 }
-/* nav ul .fa-solid{
+nav ul .fa-solid{
     position:absolute;
     top: 25px;
     left: 25px;
     cursor:pointer;
     display: none !important;
-} */
+} 
 .fa-solid{
     
     cursor:pointer; 
